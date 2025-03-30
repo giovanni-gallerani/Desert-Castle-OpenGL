@@ -1971,7 +1971,7 @@ void keyInput(unsigned char key, int x, int y)
         else{
 			rotazione_libera = 1;
 			printf("\nFree rotation mode: ON");
-			printf("\nPress x, X, y, Y, z, Z to rotate the scene.\n");
+			printf("\nPress 'x', 'X', 'y', 'Y', 'z', 'Z' to rotate the scene.\n");
 		} 
 
 		glutPostRedisplay();
@@ -2118,6 +2118,7 @@ int main(int argc, char **argv)
     printf("Hold 'u' (up) to raise the drawbridge\n");
 
 	printf("\nPress 'f' to activare the free rotation mode (debugging)\n");
+	printf("In free rotation mode press 'x', 'X', 'y', 'Y', 'z', 'Z' to rotate the scene.\n");
 	printf("\nPress 'esc' to terminate the program\n");
 	
     
