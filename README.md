@@ -3,7 +3,8 @@ Teacher: Antonino Casile
 Student: GIOVANNI GALLERANI  
 ---  
 **Note: You can take a look at the project in action without the need to compile it in the videos directory.**  
-This project features an animation starring a castle inspired by the aesthetics of the Nintendo 64 game "The Legend of Zelda: Ocarina of Time"  
+This project features an animation starring a castle inspired by the aesthetics of the Nintendo 64 game "The Legend of Zelda: Ocarina of Time".
+Credits to [Fuyudan Luke](https://www.instagram.com/fuyudan_luke?igsh=NWI5ZXRua3Zzd2hw) for the main gate and windows textures design!  
   
 The castle initially protrudes from the sand, holding down the 'space' key an animation makes the castle emerge from under the sand.  
 First the walls emerge and when these are almost completely raised the castle inside them also begins to rise.  
